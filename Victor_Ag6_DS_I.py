@@ -11,7 +11,7 @@ elif valor_compra < 300:
     percentual_desconto = 10
 else:
     percentual_desconto = 15
-    # Calcula o valor do desconto
+# Calcula o valor do desconto
 valor_desconto = valor_compra * percentual_desconto / 100
 
 # Calcula o valor final que o cliente deverá pagar
